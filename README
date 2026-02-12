@@ -1,0 +1,28 @@
+Global Sales & Logistics Performance Intelligence
+1. Project Overview
+This comprehensive Data Analysis project transforms raw transactional data into a high-impact, interactive business intelligence solution using Power BI. The dashboard provides a 360-degree view of a massive global retail operation, successfully tracking $198.25M in total sales and managing logistics across a diverse database of over 18.47K customers. By integrating sales metrics with logistics costs, this tool identifies growth opportunities and operational bottlenecks to drive strategic decision-making.
+
+2. Problem Statement
+Large-scale global operations often face "Data Silos," where sales performance and logistics costs are analyzed in isolation. This project bridges that gap by offering an integrated view, allowing management to understand the true impact of freight costs on the bottom line and identify which regional markets (e.g., California with $41.34M in sales) are most profitable.
+
+3. Technical Implementation
+Data Transformation (Power Query): Executed advanced ETL processes to clean, normalize, and structure raw datasets totaling 131K+ units in quantity.
+
+Data Modeling: Established a robust star schema to link sales transactions with geographical data and customer segments.
+
+Advanced DAX (Data Analysis Expressions): Developed custom measures to calculate critical KPIs, including:
+
+Total Sales YTD: Year-to-date performance monitoring.
+
+Geospatial Mapping: Visualizing performance across various States and Provinces.
+
+Logistics Efficiency: Tracking the $4.49M in Total Freight costs against revenue volume.
+
+Visualization: Designed a professional Dark Theme dashboard featuring interactive slicers (Year, Category, Segment) for granular data drilling.
+
+4. Key Business Insights
+Top Performing Markets: Identified California ($41.34M) and Florida ($66.84M) as leading revenue drivers.
+
+Product Categories: Analyzed revenue distribution across product lines (Black, Yellow, Silver, etc.) to optimize inventory levels.
+
+Scalability: The model is designed to handle multi-year data (from 2011 to 2025+) seamlessly.
